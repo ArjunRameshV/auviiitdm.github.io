@@ -11,11 +11,12 @@ body{
   color: #505962 ;
 }
 
-a:link{
-    color: green ;
+a.college{
+  color: white ;
 }
+
 a:hover{
-  color: 	#00FF7F ; 
+  color: 	#00FF7F ;
   text-decoration: underline;
 }
 
@@ -106,8 +107,8 @@ a:hover{
 }
 
 .mempic{
-  width: 50% ;
-  max-width: 50% ;
+  width: 75% ;
+  max-width: 75% ;
   height: auto ;
 }
 
@@ -274,7 +275,7 @@ hr.socket{
     font-size: 1.5rem ;
   }
   .mempic{
-    max-width: 25% ;
+    max-width: 40% ;
     display: block;
     margin: 0 auto;
     height: auto ;
