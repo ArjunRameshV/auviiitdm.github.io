@@ -280,6 +280,12 @@ hr.socket{
     margin: 0 auto;
     height: auto ;
   }
+  
+  .ppic img{
+    max-width: 25% ;
+    margin: 0 auto ;
+    height: auto; 
+  }
 
   .ilogo{
     width: 50% ;
